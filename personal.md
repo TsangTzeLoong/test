@@ -18,7 +18,7 @@ __disk:__
 * git push -u origin \<local branch name> 
 > branch name no need to add "remotes" or "origin"
 2. how to delete remote branch:
-* git push origin :\<remote branch name>
+* git push origin --delete\<remote branch name>
 3. how to relate local branch to remote branch:
 * git branch -u  origin/\<remote branch name>
 > can new a local branch and relate to remote one
