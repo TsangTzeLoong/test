@@ -5,6 +5,7 @@ __start .__
 
 > change disk
 
+ofsdafsa fsdf
 __disk:__
 
 ## Generate & add ssh public key: 
