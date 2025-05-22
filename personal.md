@@ -16,7 +16,7 @@ __disk:__
 ## Git delete remote branch:
 1. how to add a same name remote branch:
 * git push -u origin \<local branch name> 
-> branch name no need to add "remotes" or "origin"
+dafsadfsadfasdfasdf branch name no need to add "remotes" or "origin"
 2. how to delete remote branch:
 * git push origin --delete\<remote branch name>
 3. how to relate local branch to remote branch:
